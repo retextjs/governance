@@ -23,7 +23,6 @@ The following spaces are governed by the team:
 
 *   GitHub: [github.com/retextjs](https://github.com/retextjs)
 *   npm: [npmjs.com/~retextjs](https://www.npmjs.com/org/retextjs)
-*   Spectrum: [spectrum.chat/unified/retext](https://spectrum.chat/unified/retext)
 
 ## License
 
